@@ -1,94 +1,143 @@
-🧩 Final Programming Project
-Instructor: Dr. Loubna Dali
-Progress Check Due: November 18
-Final Project Due: December 5
-🎯 Project Goal
-Select one Java project from the list below and:
-Build the program completely in Java
-Prepare a working demo
-Present it to your peers by explaining:
-How your code works
-What your program accomplishes
-💻 Project Options
-1. Expense Tracker
-Create a Java application to record and categorize personal expenses.
-Features:
-Add expenses with description, amount, and category
-View all expenses
-Generate summary reports (total, average per category, monthly spending)
-Concepts Practiced:
-OOP (Expense, Category classes), Java Collections (ArrayList, HashMap), and File I/O (CSV or JSON).
-2. Sales Tracker
-Develop a program to process daily sales data from a file.
-Features:
-Read sales records
-Calculate total revenue & quantity per product
-Identify best and worst performers
-Concepts Practiced:
-File I/O, string parsing, Maps for aggregation, and sorting algorithms.
-3. Student Gradebook
-Simulate a gradebook application.
-Features:
-Read student info and scores from file
-Calculate total, average, and assign letter grades
-Display class average and list students below a grade threshold
-Concepts Practiced:
-OOP (Student, Course classes), File I/O, and conditional logic.
-4. Weather Data Analyzer
-Analyze a dataset of historical weather information.
-Features:
-Read daily temperature/humidity/precipitation data
-Compute averages, min/max values, and hottest/coldest days
-Concepts Practiced:
-File I/O, data validation, statistical algorithms, and use of arrays/lists.
-5. Word Frequency Counter
-Read a text file and count occurrences of each unique word.
-Features:
-Ignore punctuation and case sensitivity
-Display words with frequencies (sorted alphabetically or by count)
-Concepts Practiced:
-File I/O, string manipulation (regex, toLowerCase()), and Maps (HashMap, TreeMap).
-6. Library Borrowing Log
-Manage a small library’s borrowed book log.
-Features:
-Add books and record borrowings
-Search by title, author, or student
-Flag overdue returns
-Concepts Practiced:
-OOP (Book, Student classes), Collections (ArrayList, LinkedList), File I/O, and Date handling.
-7. Bank Account Ledger
-Simulate a simple bank ledger system.
-Features:
-Track deposits & withdrawals for multiple accounts
-Read balances & transactions from a file
-Generate transaction reports
-Concepts Practiced:
-OOP (Account, Transaction classes), File I/O, data validation, and Maps for account management.
-🧾 Deliverables
-✅ A complete, working Java program with clean source code
-✅ An input file (sample data)
-✅ An output report displayed on the IDE console
-✅ A short presentation covering:
-What your program does
-How it works (brief walkthrough)
-Any challenges you solved
-✅ A one-page written reflection report
-📝 Written Report: Reflection and Analysis
-Each student must submit a 1-page report answering the following questions:
-What project did you choose and why?
-What was your original plan or algorithm? (Include logic steps.)
-What was the biggest challenge you faced?
-How did you fix or troubleshoot the issue?
-What did you learn from solving that challenge?
-Did you modify your original plan? Why or why not?
-What Java concepts (loops, methods, arrays, etc.) did you apply?
-How did you test your program?
-What would you improve or add with more time?
-What was the most interesting part of your project and why?
-How did you handle debugging or logical errors?
-Did you use comments, indentation, and meaningful names?
-What was the output of your final test run, and did it meet expectations?
-How could this project apply to a real-world situation?
-What advice would you give to another student starting this project?
-🧠 Tip:
-Use good coding practices — comments, indentation, and clear variable names will help both you and others understand your project!
+# 🌟 Final Programming Project
+
+**Instructor:** Dr. Loubna Dali  
+📅 **Progress Check Due:** November 18  
+📅 **Final Project Due:** December 5  
+
+---
+
+## 🎯 Overview
+Choose **one** Java project from the list below and bring it to life!  
+You will:
+- 🧠 Build a complete Java program  
+- 💻 Prepare a working demo  
+- 🎤 Present it to your peers by explaining:
+  - How your code works  
+  - What your program accomplishes  
+
+---
+
+## 💡 Project Options
+
+### 1️⃣ Expense Tracker
+Keep track of personal expenses.  
+**Includes:**
+- Add expenses (description, amount, category)  
+- View all expenses  
+- Generate reports (total, average, monthly spending)  
+
+**Concepts:** OOP (`Expense`, `Category`), Collections (`ArrayList`, `HashMap`), File I/O (CSV or JSON)
+
+---
+
+### 2️⃣ Sales Tracker
+Analyze and summarize sales data.  
+**Includes:**
+- Read sales records  
+- Calculate total revenue and quantities  
+- Identify best/worst-performing products  
+
+**Concepts:** File I/O, String parsing, Maps, sorting algorithms
+
+---
+
+### 3️⃣ Student Gradebook
+Manage and calculate grades.  
+**Includes:**
+- Read student info and scores from file  
+- Compute totals, averages, and letter grades  
+- Display class averages  
+
+**Concepts:** OOP (`Student`, `Course`), File I/O, conditional logic
+
+---
+
+### 4️⃣ Weather Data Analyzer
+Explore weather datasets.  
+**Includes:**
+- Read daily temperature, humidity, or rainfall  
+- Calculate averages, min/max, and hottest/coldest days  
+
+**Concepts:** File I/O, data parsing, arrays/lists, statistics
+
+---
+
+### 5️⃣ Word Frequency Counter
+Count words in a text file.  
+**Includes:**
+- Ignore punctuation and capitalization  
+- Count unique words  
+- Display frequencies alphabetically or by frequency  
+
+**Concepts:** File I/O, String manipulation, Maps (`HashMap`, `TreeMap`)
+
+---
+
+### 6️⃣ Library Borrowing Log
+Track book borrowings in a small library.  
+**Includes:**
+- Add books and record borrowings  
+- Search by title, author, or student  
+- Flag overdue returns  
+
+**Concepts:** OOP (`Book`, `Student`), Collections, File I/O, `Date` handling
+
+---
+
+### 7️⃣ Bank Account Ledger
+Simulate a simple banking system.  
+**Includes:**
+- Track deposits and withdrawals  
+- Read transactions from file  
+- Generate detailed account reports  
+
+**Concepts:** OOP (`Account`, `Transaction`), File I/O, data validation, Maps
+
+---
+
+## 🧾 Deliverables
+
+Make sure your submission includes:
+
+1. ✅ A complete, working Java program with clean code  
+2. 📂 An input file (sample data)  
+3. 🖥️ Output report displayed on the IDE console  
+4. 🗣️ A short presentation explaining:
+   - What your program does  
+   - How it works (brief walkthrough)  
+   - Any challenges you solved  
+5. 📝 A one-page written reflection report  
+
+---
+
+## ✍️ Written Report: Reflection & Analysis
+
+Answer each question in **clear, complete sentences:**
+
+1. What project did you choose and why?  
+2. What was your original plan or algorithm?  
+3. What was the biggest challenge you faced?  
+4. How did you fix or troubleshoot the issue?  
+5. What did you learn from solving that challenge?  
+6. Did you modify your original plan or algorithm? Why or why not?  
+7. What Java tools, classes, or concepts did you use?  
+8. How did you test your program?  
+9. What would you improve or add with more time?  
+10. What was the most interesting part of your project and why?  
+11. How did you handle debugging or logical errors?  
+12. Did you use comments, indentation, and meaningful names? How did this help?  
+13. What was the output of your final test run, and did it meet expectations?  
+14. How could this project apply to a real-world situation?  
+15. What advice would you give to another student starting this project?  
+
+---
+
+## 🧠 Pro Tips
+- Use **clear variable names** and consistent indentation.  
+- Add **comments** to explain tricky sections.  
+- Keep your code organized and modular.  
+- Have fun and show creativity in your project!  
+
+---
+
+**💻 End of Project Instructions**
